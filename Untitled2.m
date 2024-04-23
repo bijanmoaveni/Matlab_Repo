@@ -1,1 +1,3 @@
 clc
+
+close all
